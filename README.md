@@ -1,1 +1,3 @@
-# vtex-autocomplete
+# VtexAutocomplete
+
+Vtex Search Autocomplete
